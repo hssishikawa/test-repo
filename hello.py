@@ -1,4 +1,4 @@
-print("Hello, world!")
+print("Hello, Git!")
 
 sales = 1500
 if sales > 1000:
