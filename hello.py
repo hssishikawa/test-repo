@@ -1,5 +1,5 @@
 print("Hello, Git!")
-print("Processing sales data...")
+print("This is dev branch work")
 
 sales = 1500
 if sales > 1000:
