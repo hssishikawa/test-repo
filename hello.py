@@ -1,5 +1,5 @@
 print("Hello, Git!")
-print("This is dev branch work")
+print("VS Code is awesome!")
 
 sales = 1500
 if sales > 1000:
